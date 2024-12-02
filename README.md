@@ -103,8 +103,32 @@ We welcome contributions from the community! To contribute:
 ## License
 This project is licensed under the MIT License. See LICENSE for details.
 
-## Attribution
-This README file was created with the help of Phoenix AI.
+## Caveats
+
+To calculate a **Z-score** for your updated resume against the scores of four other candidates, 
+first need the match scores for each candidate in the competition. 
+A Z-score measures how far a data point (your resume's score compared against the keywords in the job description of your choice) 
+is from the mean of the dataset in terms of standard deviations.
+
+### Steps:
+
+1. **Data Requirements**:
+   - Gather the match scores for all candidates, including your updated resume.
+   - Calculate the mean and standard deviation of these scores.
+
+2. **Calculate the Z-Score**:
+   $$ Z = \frac{X - \mu}{\sigma} $$
+
+   - \( X \): Your match score.
+   - \( \mu \): Mean score of all candidates.
+   - \( \sigma \): Standard deviation of the scores.
+
+3. **Visualize Data**:
+   - Create an Excel chart comparing match scores and percentiles.
+  
+4. **Inputs Needed:**
+- Provide the match scores for the four other candidates and your updated resume. 
+- If scores are unknown, we can assume mock data to demonstrate the process. 
 
 ### Feel free to customize further based on your preferences or additional features! Let me know if you'd like any changes
 

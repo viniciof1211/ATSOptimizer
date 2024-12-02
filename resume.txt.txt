@@ -1,0 +1,125 @@
+Vinicio S. Flores
+📍 Cartago, Costa Rica | ☎️ +506 7064 6311 | 📧 vfloreshdz@gmail.com
+💼 LinkedIn Profile: https://linkedin.com/in/viniciof-aa1a13aa
+🌐 Professional Blog: https://dacanalyticsdatail.wordpress.com/
+________________________________________
+PROFESSIONAL SUMMARY
+Visionary Solutions Architect with over 9 years of experience transforming business objectives into scalable, secure, and efficient cloud solutions. Renowned for integrating cutting-edge Microsoft technologies (Azure, Power Platform, Dynamics 365) to deliver results-driven solutions that drive 30%+ efficiency gains and align with customer goals. Prolific author and passionate leader dedicated to creating innovative architectures that simplify complexity and unlock new business value. Proven expertise in object-oriented programming (C++, C#, Python, Java), distributed computing, and DevOps. Adept at crafting enterprise-level applications with low latency, high reliability, and strong security. Passionate about leveraging Azure cloud and Microsoft 365 platforms to empower global collaboration and innovation.
+________________________________________
+SKILLS
+•	Cloud Architecture: Azure (Compute, Networking, Storage), Dynamics 365, Office 365, Power Platform (Low Code/No Code to enable “citizen business devs” who’re not Computer Scientists to develop apps, automate workflows like RPA, embed AI models graphically using AI Builder and Virtual Agent, Power Pages, connectors, CDS/Dataverse, etc. Designed the self-service modeling DaaS on 2017-2021 before such concept was popular industry-wide (before Snowflake’s IPO in 2021).
+•	Programming Languages: C++, C#, Java, Python, SQL (many flavours, not only T-SQL).
+•	DevOps & CI/CD: Jenkins, Saltstack, Azure DevOps, GitLab CI, Kubernetes, Docker images, Dockerfiles, repos.
+•	Testing & Monitoring: Unit Testing, Integration Testing, Regression Testing, AWS CloudWatch, AWS CloudTrail, Grafana, ELK (ElasticSearch, Logstash, Kibana)
+•	Development & Integration: APIs, ETL pipelines, microservices, DevOps, Enterprise Integration Patterns, async messaging, caching (external + in-memory/sided caches), SOA (Service Oriented Architecture), Strangler and Façade patterns to break down legacy monoliths, Enterprise Service Buses, gRPC + SOAP API (integration with Salesforce entities, ITIL/ISMP ServiceNow objects and Microsoft MSX/Dynamics CRM and ERP migrations and deployments) + REST API. ORM (Object Relational Mapping to build DB objects and ETLs from C# .NET code programmatically as SDK) + Entity Framework (EF) and MVC for SPA apps (Single Page App that reverse-engineers binary XLSX formats to render from metadata into a TypeScript webapp self-service dashboards created by citizen developers from business side using Excel as IDE)
+•	Leadership & Collaboration: Stakeholder engagement, mentoring, technical training, business development, managers, biz unit leaders and technical leads communication and standardization of technologies per use case (Enterprise Architecture Cataloguing). Persuasion of high-ranking decision makers both vertically and horizontally. Architecture and code reviews to dev. Teams across Intel’s IT org.
+•	Automation & Optimization: IaC (Terraform, Bicep), process streamlining, event-driven architecture with FaaS (Azure Functions and AWS Lambdas) + publisher/subscriber patterns with services on both roles on top of Kafka clusters (on-prem and hybrid cloud on top of AWS EKS and Azure Kubernetes Service pods and docker images)
+•	Data & BI: Power BI, SQL, data modeling, predictive analytics, Databricks, AWS Redshift, Snowflake, Data Glosaries/Taxonomy, C++, C#, Python (as platform lang + scripting + data transformation in batches and near real-time/streaming). Created a unified SQL-ANSI compliant language in C# using visitor design pattern with Irony library in .NET.
+•	Security & Compliance: Azure Sentinel, GDPR compliance and SDR (Self-service subject data requests), HIPAA compliance, FEDRamp GCC/GCC High compliance on Microsoft’s AI Copilot and Copilot Studio
+•	Data Engineering & Analytics: Python, SQL, PySpark, Databricks, AWS Redshift, C++, C#, .NET Framework, numPy, Pandas, NLTK (Natural Language Processing in Python module), Apache Spark, Apache Kafka, Spark Streaming, Zookeeper, Redis, PostgreSQL, RDBMS (SQL Server, MariaDB and MySQL). Query tuning. Data Migration and Datawarehouse design, implementation and deployment.
+•	Tools & Frameworks: Visual Studio, Eclipse, Git, JIRA
+•	Architecture: SOA (Service Oriented Architecture), Event-Driven Architectures, Domain Driven Architecture (DDD), Microservices, Serverless, FaaS (Function as a Service), EIP (Enterprise Integration Patterns). Async messaging queues, ESB (Enterprise Service Bus). Self-service DaaS (Data as a Service). Distributed and MPP Systems. Stateless vs Stateful pattern. 
+•	Big Data & ETL Tools: Hive, Spark, Impala, HDFS, Apache Cassandra, Azure Data Factory, SSIS, Azure Cosmos DB, Azure Queues, Azure Tables, Blob Storage, Azure Event Hub & Grid.
+•	Visualization & Reporting: Tableau, Power BI, Excel (Pivot Tables, VBA, Python on Excel: Advanced Analytics). Power Query and Power Platform AI Builder. Dataverse/CDS.
+•	Cloud Platforms: Azure, AWS (Lambda, Kinesis, EMR), Snowflake, Databricks, Azure IaaS, Azure PaaS, Azure SaaS, Azure Functions, AWS Lambda, AWS S3 Buckets, AWS Kinesis, AWS Redshift, AWS Aurora DB, AWS EC2, Azure VMs, Azure VNETs, AWS Virtual Networks and subnets. Azure Kubernetes Service and AWS Elastic Kubernetes Service. Boto library.
+•	Project Management: Agile, JIRA, requirement gathering, stakeholder engagement, SAFE (Scaled Agile Frameworks), Kanban
+•	Statistical Analysis: Data modeling, predictive analytics, statistical testing, ML Models, LLMs, neural networks. Microsoft Copilot & Copilot Studio on MS365.
+________________________________________
+PROFESSIONAL EXPERIENCE
+Azure Solutions Architect (Microsoft ETC=Expert Technology Consultant)
+Accenture (with Microsoft as main account – fixed milestone-based project) | July 2024 – Present | Costa Rica (Hybrid)
+
+•	Azure Solutions Architect and Senior Data Engineer with 9+ years of experience designing and implementing advanced cloud and big data solutions. Proven expertise in data transformation, advanced analytics, and integrating cloud solutions with business strategies to drive measurable impact. Skilled in leveraging tools like Databricks, Python, SQL, and Tableau to deliver actionable insights. Adept at client engagement, technical leadership, and cross-functional collaboration, with a strong background in healthcare analytics, federal cloud deployments, military industry requirements on GCC (Creare LLC & Elbit America/Israel), compliance, and large-scale data systems.
+•	Drove large-scale distributed software design for enterprise clients, leveraging Azure compute and storage services to improve scalability and reduce latency by 30%.
+•	Implemented DevOps pipelines using Azure DevOps and Jenkins, automating build and deployment processes and reducing deployment times by 50%.
+•	Designed and developed backend services in C# and Python, enabling real-time data processing and analytics for global customers.
+•	Collaborated across teams to implement AI-powered search solutions using Microsoft Graph APIs, delivering measurable improvements in search accuracy.
+•	Mentored junior engineers, guiding them through technical challenges and improving team productivity by 20%.
+•	S: A leading enterprise sought scalable Azure solutions to enable data-driven digital sales strategies.
+T: Architect and implement cloud solutions for CRM integration (Dynamics 365 Salesforce via SOAP API & Power Platform Connectors), advanced analytics, and automation.
+A: Designed a cloud-first architecture leveraging Azure Data Factory, Databricks, and Power BI for real-time analytics. Integrated AI models to generate sales insights.
+R: Boosted sales productivity by 35% and reduced manual reporting by 40%.
+•	S: Enterprise clients needed pre-sales technical guidance to modernize cloud infrastructure.
+T: Act as a trusted advisor for the ETC/SAS Enterprise Centers of Excellence.
+A: Conducted workshops to educate teams on Azure capabilities, implemented DevOps practices, and created scalable blueprints for PCM/CLM partner solutions.
+R: Increased Azure adoption rates by 25% across the portfolio.
+•	S: Clients required secure solutions adhering to global compliance standards.
+T: Implement robust Azure security frameworks to safeguard customer data.
+A: Implemented Azure Sentinel for real-time threat detection and encrypted sensitive data with Azure Key Vault.
+R: Achieved 100% compliance with HIPAA and GDPR for all deployed solutions and SDRs (Subject Data Requests).
+________________________________________
+Sr. Data Engineer
+World Wide Technology (WWT) | Oct 2023 – Present | Costa Rica (Hybrid)
+•	Built and maintained microservices-based architectures on Azure to handle high-volume data streams, achieving 99.999% system uptime.
+•	Developed RESTful APIs in Python, ensuring seamless integration between cloud services and third-party applications.
+•	Optimized large-scale data processing workflows using Spark and SQL, reducing query response times by 40%.
+•	Acted as a participant in the on-call rotation, successfully resolving service interruptions within SLA targets.
+
+S: Migrating client legacy data infrastructure to Azure cloud.
+T: Deliver scalable, compliant, and cost-efficient solutions for data-heavy industries.
+A: Designed and deployed ETL pipelines with Azure Data Factory and Databricks, enhancing the data migration process by 50%. Automated reporting dashboards for stakeholders, integrating Power BI and SQL. Then migrated to Snowflake because of it’s SaaS self-contained pipelines (Snowpipe + Snowpark) and 1000s of connectors to RDBMSs, document-based sources (ElasticSearch, MongoDB, and got rid of slow Apache Dremio for dataset virtualization layer/anticorruption layer)
+R: Enabled real-time data insights, reducing time-to-decision by 40% and lowering operational costs by 25%.
+
+S: Healthcare data integration for Soleo HealthCare.
+T: Consolidate patient records from multiple systems while ensuring HIPAA compliance.
+A: Developed ETL workflows for EHR and pharmacy databases, implementing security measures like role-based access control and encryption.
+R: Improved patient data accessibility by 30%, enabling faster medical decisions and boosting compliance by 100%.
+________________________________________
+Public Cloud Engineer & SaaS Developer
+Intel Corporation | Apr 2021 – Oct 2023 | Costa Rica (Hybrid)
+S: Modernizing Intel’s SaaS infrastructure using Azure.
+T: Ensure scalability, security, and high availability for global operations.
+A: Leveraged Terraform to create IaC templates for Azure VMs and storage. Implemented Azure Sentinel to monitor system health and flag anomalies.
+R: Achieved 99.99% uptime and reduced manual interventions by 35% through automation.
+S: Streamlining customer data integration for marketing.
+T: Create a unified view of customer data from disparate sources.
+A: Designed Ab Initio-based workflows for data cleansing, deduplication, and validation, creating a single source of truth. Eventually migrated to AWS Redshift, then to Snowflake due to CIO’s mandate
+R: Accelerated campaign targeting by 50% and increased ROI by 20%.
+________________________________________
+Legal Data Analytics Technical Leader
+Intel Corporation | Nov 2020 – Apr 2021 | Costa Rica (Hybrid)
+S: Overhaul Intel’s legal compliance reporting.
+T: Implement robust data pipelines for legal audits.
+A: Built ETL pipelines in SSIS to ingest, cleanse, and transform audit data. Partnered with stakeholders to define KPIs and develop dashboards in Power BI.
+R: Reduced compliance reporting errors by 30% and improved audit readiness by 40%.
+________________________________________
+Data Analytics Software Engineer
+Intel Corporation | 2017 – 2020 | Costa Rica (Hybrid)
+•	Contributed to the design of low-latency distributed systems for semiconductor manufacturing processes.
+•	Led the development of backend services using C++ and Java, enabling robust and secure communication between critical systems.
+•	Designed a real-time monitoring solution using Grafana and AWS CloudWatch, reducing incident resolution times by 30%.
+•	Created APIs to support real-time chip validation, improving overall validation speed by 15%.
+•	Conducted performance tuning of backend services, reducing latency by 40%.
+
+S: Building self-service APIs for chip design data processing.
+T: Support global R&D teams with reliable, high-performing data pipelines.
+A: Designed a microservices architecture in C# and implemented data orchestration using Kafka. Conducted code reviews and mentored junior developers.
+R: Boosted processing speeds by 50%, enabling faster chip development cycles.
+________________________________________
+Treasury Systems Analyst
+Intel Corporation | 2015 – 2017 | Costa Rica (Hybrid)
+S: Modernizing data pipelines for Intel’s treasury operations from myriad of sources such as Bloomberg’s terminal output files (semi-structured data on SAMBA share drives), S&P files sent via SFTP protocol as | delimited files (semi-structured) credit rating data.
+T: Ensure secure, real-time data ingestion for financial reporting and consolidation in final Azure Synapse Analytics Final Data Warehouse (structured relationship, to the NF3 normal form, FK + Surrogate keys, etc ….).
+A: Replaced legacy FTP pipelines with encrypted SFTP connections, integrating Bloomberg and Reuters data sources into SQL Server. Moved from Synapse to Azure Databricks (SPARK-powered columnar MPP clustered DB) and query tuned w/ Spark SQL and Python on Databricks (powerful transformation using embedded PySpark and local Pandas and NumPy modules for maximum performance in queries)
+R: Reduced downtime by 90% and eliminated security vulnerabilities in financial data transfers.
+________________________________________
+EDUCATION
+BSc. Computer Engineering
+Instituto Tecnológico de Costa Rica | 2017
+________________________________________
+CERTIFICATIONS
+•	Microsoft Power Plarform Certified: PL-900
+•	Microsoft 365 Fundamentals Certified: MS-900
+•	Microsoft Azure Certified: AZ-900
+•	Microsoft Compliance, Identity & Security: CS-900
+•	Master Anaplanner (WIP)
+•	AWS Certified Solutions Architect – Associate (WIP) – but plenty hands-on experience >= 6 yrs on AWS building near realtime solutions and lakehouses (Golden Layer)
+•	TOGAF & Zachman Certifications (WIP) – self-paid
+•	ADA Certified = Accenture’s Delivery Architecture, Accenture’s Board Certified. Industry recognized.
+________________________________________
+ACHIEVEMENTS
+•	Led Cloud Transformation: Migrated Graebel’s infrastructure to Azure, achieving 30% cost savings and enhanced scalability.
+•	Optimized Healthcare Operations: Integrated patient data for Soleo HealthCare, boosting compliance by 100%.
+•	Streamlined Data Pipelines: Automated data flows for Intel’s marketing campaigns, increasing ROI by 20%.
+________________________________________
+
