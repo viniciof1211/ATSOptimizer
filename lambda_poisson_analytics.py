@@ -1,3 +1,8 @@
+import pandas as pd
+import numpy as np
+from scipy.stats import poisson, norm, zscore
+import matplotlib.pyplot as plt
+from docx import Document
 # Redefine the function to convert percentiles to scores
 percentile_to_score = lambda p: (p / 100) * 100
 

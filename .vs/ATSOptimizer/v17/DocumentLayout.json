@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\keyword_optimization_matrix.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:keyword_optimization_matrix.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\QuantumZ.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuantumZ.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\ats_optimizer.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ats_optimizer.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\poisson_xlsx_analytics.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:poisson_xlsx_analytics.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\lambda_poisson_analytics.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lambda_poisson_analytics.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\best_resume_optimizer.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:best_resume_optimizer.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\z_score_calculator_plotter_xlsx.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:z_score_calculator_plotter_xlsx.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "keyword_optimization_matrix.py",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\keyword_optimization_matrix.py",
+              "RelativeDocumentMoniker": "keyword_optimization_matrix.py",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\keyword_optimization_matrix.py",
+              "RelativeToolTip": "keyword_optimization_matrix.py",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-13T22:43:38.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ats_optimizer.py",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\ats_optimizer.py",
+              "RelativeDocumentMoniker": "ats_optimizer.py",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\ats_optimizer.py",
+              "RelativeToolTip": "ats_optimizer.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-07T17:52:12.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "poisson_xlsx_analytics.py",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\poisson_xlsx_analytics.py",
+              "RelativeDocumentMoniker": "poisson_xlsx_analytics.py",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\poisson_xlsx_analytics.py",
+              "RelativeToolTip": "poisson_xlsx_analytics.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-07T17:52:03.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lambda_poisson_analytics.py",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\lambda_poisson_analytics.py",
+              "RelativeDocumentMoniker": "lambda_poisson_analytics.py",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\lambda_poisson_analytics.py",
+              "RelativeToolTip": "lambda_poisson_analytics.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-07T17:51:35.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "best_resume_optimizer.py",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\best_resume_optimizer.py",
+              "RelativeDocumentMoniker": "best_resume_optimizer.py",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\best_resume_optimizer.py",
+              "RelativeToolTip": "best_resume_optimizer.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-07T17:48:32.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuantumZ.py",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\QuantumZ.py",
+              "RelativeDocumentMoniker": "QuantumZ.py",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\QuantumZ.py",
+              "RelativeToolTip": "QuantumZ.py",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAHsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-07T17:42:00.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-02T21:58:04.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "z_score_calculator_plotter_xlsx.py",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\z_score_calculator_plotter_xlsx.py",
+              "RelativeDocumentMoniker": "z_score_calculator_plotter_xlsx.py",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ATSOptimizer\\z_score_calculator_plotter_xlsx.py",
+              "RelativeToolTip": "z_score_calculator_plotter_xlsx.py",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwDMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-02T21:57:48.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

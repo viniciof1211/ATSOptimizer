@@ -1,38 +1,32 @@
-About the job
-Make a meaningful difference to patients around the world. Our talented people are central to the future of Edwards Lifesciences, which is why our Human Resources teams help design, guide, and deliver inspiring experiences for our people. With a fundamental understanding of how to build a supportive community and organizational capability, you’ll deliver solutions to attract and retain talent. Your work will enable our teams to thrive as they help patients live healthier and more productive lives.
+Job Title: Solutions Architect
+Job Type: Full-time
+Location: Remote
+Job Summary:
+We are seeking a skilled Solution Architect with a robust background in software architecture, engineering, and data management platforms. This role requires expertise in Azure and Python, overseeing data onboarding from diverse internal sources. The ideal candidate will lead a LATAM team in creating scalable and configurable data solutions.
 
-We are looking for a senior developer who has extensive experience with the ServiceNow HRSD (Human Resources Service Delivery) platform. You will be responsible for designing, developing, and maintaining solutions that enhance the employee experience and streamline HR processes. You will also work closely with stakeholders as a business analyst to gather requirements and translate business needs to technical solutions.
+Key Responsibilities:
+Lead the team responsible for data onboarding from various internal sources such as file servers, databases, and APIs.
+Make strategic architecture choices drawing from a wealth of experience with diverse tools and technologies.
+Design and build pipelines for near-real time data integration, energizing both the data lake and downstream systems.
+Oversee the design and construction of data cleansing and enrichment pipelines aimed at analytics consumption.
+Guide the team in designing pipelines tailored to file type, frequency, data integrity, quality, and performance.
+Ensure configurations are repeatable and scalable across multiple data sources.
+Develop a comprehensive testing strategy to validate that build outputs meet all requirements.
 
-How you’ll make an impact: 
+Required Skills and Qualifications:
+Strong background in Python and Azure.
+Proven expertise in software architecture and data management platforms.
+Experience in team management and leadership.
+Excellent written and verbal communication skills.
+Hands-on experience in data and analytics solution design and implementation.
+Ability to articulate and document complex requirements clearly.
+Proficiency in designing scalable and configurable data solutions.
 
-Design, develop, and maintain ServiceNow HRSD solutions that meet the business requirements and adhere to the best practices and standards.
-Work closely with stakeholders as a business analyst to gather, analyze, and document the functional and technical requirements for HR service delivery.
-Translate the business requirements to technical solutions and provide estimates, timelines, and deliverables.
-Perform testing, debugging, and troubleshooting of the ServiceNow HRSD solutions and ensure quality and performance.
-Provide support and maintenance for the existing ServiceNow HRSD solutions and resolve issues and incidents.
-Conduct training and knowledge transfer sessions for the end users and other developers.
-Stay updated with the latest trends and developments in ServiceNow HRSD and recommend improvements and enhancements
-
-What you’ll need (required): 
-
-Bachelor’s degree in Computer Science, Information Systems, or related field and 5 years of relevant experience in ServiceNow development, configuration, and administration.
-Strong knowledge of ServiceNow scripting languages, such as JavaScript, AngularJS, HTML, CSS, and XML.
-ServiceNow certification
-
-What else we look for (preferred): 
-
-Proficient in ServiceNow HRSD modules, such as Case and Knowledge Management, Employee Service Center Pro, Lifecycle events and journeys, and HR Integrations.
-Experience in using ServiceNow APIs, such as REST, SOAP, and JSON.
-Experience in using ServiceNow tools, such as Workflow Studio, Flow Designer, IntegrationHub, and Automated Test Framework.
-Certified in ServiceNow System Administrator and ServiceNow Application Developer.
-Certified in ServiceNow HRSD Implementation Specialist.
-Familiarity Gen AI, Automation, Skills Intelligence and how they can be applied to the HR Service Delivery.
-Ability to work independently and as part of a team with excellent communication, collaboration, and problem-solving skills.
-Able to build and maintain strong relations with varying levels and types of stakeholders in order to influence, drive change, perform as the SME, and escalate issues to the appropriate levels of management
-Ability to quickly learn new concepts, skills, and processes, seeks new knowledge, embraces feedback and learns from mistakes
-Strong organizational, self-directed, analytical, and decision-making skills to thrive with aggressive time sensitive deadlines
-Solid in-person and remote presentation skills with ability to demonstrate technical solutions clearly, facilitate discussions and drive decisions
-Ability to articulate and assess analytical needs in ambiguous situations
-Ability to manage competing priorities in a fast paced environment, prioritizes tasks, avoids procrastination, and balances responsibilities effectively
-Substantial troubleshooting/debugging skills.
-Adhere to all company rules and requirements (e.g., pandemic protocols, Environmental Health & Safety rules) and take adequate control measures in preventing injuries to themselves and others as well as to the protection of environment and prevention of pollution under their span of influence/control.
+Preferred Qualifications:
+Experience leading teams in LATAM regions.
+Familiarity with a variety of data sources and integration methodologies.
+- Name: Vinicio Flores
+- Phone: +506 7064 6311
+* LinkedIn Profile: https://www.linkedin.com/in/viniciof-aa1a145aa/
+* The Other Professional Profile: https://www.fiverr.com/viniciof1211
+* Professional Blog: https://dacanalyticsdatail.wordpress.com/

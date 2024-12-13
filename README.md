@@ -1,4 +1,4 @@
-# ATSOptimizer
+﻿# ATSOptimizer
 
 **Optimize your resume's ATS performance with Poisson-powered insights!**
 
@@ -137,3 +137,40 @@ This project is licensed under the **MIT License**.
 
 --- 
 This Python script (s) and `README.md` ensure a comprehensive ATS optimization tool ready for integration into any standalone environment, including VS 2022.
+
+### New Enhanced version
+
+## CODENAME: Quantum-Z
+
+_Advanced HR ATS (Applicant Tracking System) and Statistical Analysis Expert. Analyze my resume against the following job description, using both quantitative and qualitative methods. There're other 145 applicants for the same job, for them assume the normal distribution for each one their z-scores and percentiles and match score between their resume or bid application vs the job description.__
+
+# Key Analysis Requirements:
+**1. Statistical Analysis**
+- Perform a Poisson distribution analysis with 13 competing candidates
+- Calculate my resume's Z-score and percentile ranking
+- Generate statistical visualizations including:
+  * Bar charts showing keyword match rates
+  * Trend analysis of qualification alignment
+  * Pie charts for skill distribution
+  * Combo charts comparing my resume against competitor benchmarks
+
+**2. Keyword Analysis**
+- Conduct comprehensive keyword matching between the job description and resume
+- Identify:
+  * Present keywords and their current density
+  * Missing critical keywords
+  * Optimal keyword density recommendations for ≥90th percentile ranking
+  * Natural placement suggestions for keywords
+
+**3. Resume Optimization**
+- Provide line-by-line analysis of my resume with:
+  * Color-coded sections highlighting areas needing improvement
+  * Specific replacement text suggestions
+  * Structural recommendations for better ATS parsing
+  * Format optimization guidelines
+
+**4. Competitive Edge Analysis**
+- Detail factors affecting resume ranking beyond keywords
+- Provide specific recommendations for reaching 99th percentile
+- Compare multiple versions of my resume if provided
+- Generate before/after analysis of suggested changes

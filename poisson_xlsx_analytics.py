@@ -1,7 +1,9 @@
 # Redefine necessary imports for numerical and visualization tasks
-import numpy as np
-import matplotlib.pyplot as plt
 import pandas as pd
+import numpy as np
+from scipy.stats import poisson, norm, zscore
+import matplotlib.pyplot as plt
+from docx import Document
 
 # Recalculate scores and statistics for the new dataset
 new_extended_scores = [percentile_to_score(p) for p in new_extended_percentiles]
